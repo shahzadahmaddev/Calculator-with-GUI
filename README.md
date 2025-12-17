@@ -62,8 +62,8 @@ The project consists of a single Calculator class inheriting from QWidget.
 
 ## 👤 Author
 
-*Huzaifa Tariq*
-* GitHub: [@HuzaifaTariq](https://github.com/HuzaifaTariq)
+*Shahzad Ahmad*
+* GitHub: [@shahzadahmaddev]
 
 ## 📄 License
 
